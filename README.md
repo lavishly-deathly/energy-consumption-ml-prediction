@@ -40,3 +40,5 @@ Our dataset includes **7 key features** that influence energy consumption:
 ---
 
 ## 🚀 Quick Start
+1. **Clone the repository:**
+   git clone
