@@ -41,4 +41,72 @@ Our dataset includes **7 key features** that influence energy consumption:
 
 ## 🚀 Quick Start
 1. **Clone the repository:**
-   git clone
+   git clone https://github.com/Rivu5555/energy-consumption-ml-prediction.git
+   cd energy-consumption-ml-prediction
+2. **Install dependencies:**
+   pip install -r requirements.txt
+3. **Run the Jupyter notebook:**
+   jupyter notebook energy_consumption_prediction.ipynb
+   4. **Explore the analysis!** 📈
+
+---
+
+## 🔬 Project Workflow
+
+### 1. 📥 Data Import & Basic Libraries
+- Load essential Python libraries (pandas, numpy, matplotlib, seaborn)
+- Import and explore the energy consumption dataset
+
+### 2. 🔍 Data Analysis & Information Gathering
+- Statistical summaries and data types
+- Missing value analysis
+- Feature distribution exploration
+
+### 3. 📊 Data Visualization
+- Energy consumption patterns by building type
+- Temperature vs energy usage correlation
+- Weekday vs weekend consumption differences
+- Feature relationship heatmaps
+
+### 4. 🤖 Machine Learning - Linear Regression
+- Feature selection and preprocessing
+- Model training and validation
+- Performance evaluation (R², MSE, MAE)
+
+### 5. 🎯 Predictions on Unseen Data
+- Model deployment for new predictions
+- Real-world scenario testing
+
+---
+
+## 📈 Key Insights Discovered
+
+- **Building Type Impact**: Industrial buildings consume significantly more energy
+- **Temperature Correlation**: Strong relationship between temperature and energy usage
+- **Occupancy Effect**: More occupants generally lead to higher consumption
+- **Day Pattern**: Weekdays show different consumption patterns than weekends
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3.8+**
+- **Data Analysis**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn
+- **Environment**: Jupyter Notebook
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+---
+
+## 📬 Contact
+
+Found this project helpful? ⭐ **Star this repo** and follow for more ML projects!
+
+---
+
+*Building a more energy-efficient future, one prediction at a time! 🌱⚡*
