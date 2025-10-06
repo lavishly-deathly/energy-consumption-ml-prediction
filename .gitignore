@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python eggs
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.manifest
+*.spec
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# Data files (add your data/ or input/ folder name here)
+data/
+input/
+*.csv
+*.tsv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE or editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
